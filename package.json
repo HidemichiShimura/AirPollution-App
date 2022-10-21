@@ -1,0 +1,22 @@
+{
+  "name": "airpollution-app",
+  "version": "1.0.0",
+  "description": "This is a web application to check Fine Particles (PM 2.5) at a city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HidemichiShimura/AirPollution-App.git"
+  },
+  "author": "Hidemichi Shimura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HidemichiShimura/AirPollution-App/issues"
+  },
+  "homepage": "https://github.com/HidemichiShimura/AirPollution-App#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
